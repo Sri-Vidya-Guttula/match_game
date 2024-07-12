@@ -1,0 +1,17 @@
+.thumbnail-img{
+    height: 80px;
+    width: 80px;
+}
+.active-thumbnail-btn{
+    background-color: transparent;
+    border: none;
+     box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+.in-active-thumbnail-btn{
+    background-color: transparent;
+    border: none;
+}
+.each-fruit{
+    list-style-type: none;
+    margin: 5px;
+}

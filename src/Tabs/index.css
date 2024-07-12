@@ -1,0 +1,18 @@
+.each-tab-list{
+    list-style-type: none;
+    
+}
+.in-active-tab-btn{
+    background-color: transparent;
+    border: none;
+    color:#ffffff;
+    font-size: 22px;
+}
+
+.active-tab-btn{
+    background-color: transparent;
+    border: none;
+    color:#fec653;
+    font-size: 22px;
+    border-bottom : 3px solid #fec653;
+}
